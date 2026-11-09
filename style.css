@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f8f3;
+    margin: 0;
+    color: #333;
+}
+
+/* Cabeçalho */
+
+header {
+    background-color: #2e8b57;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/* Conteúdo */
+
+main {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+}
+
+/* Seções */
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Títulos */
+
+h2 {
+    color: #2e8b57;
+}
+
+/* Rodapé */
+
+footer {
+    background-color: #2e8b57;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
