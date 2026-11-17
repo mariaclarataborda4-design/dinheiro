@@ -8,7 +8,7 @@ body {
 /* Cabeçalho */
 
 header {
-    background-color: #2e8b57;
+    background-color: #f165b7;
     color: white;
     text-align: center;
     padding: 30px;
@@ -34,13 +34,13 @@ section {
 /* Títulos */
 
 h2 {
-    color: #2e8b57;
+    color: #f165b7;
 }
 
 /* Rodapé */
 
 footer {
-    background-color: #2e8b57;
+    background-color: #f165b7;
     color: white;
     text-align: center;
     padding: 15px;
